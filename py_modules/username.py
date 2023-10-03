@@ -1,7 +1,7 @@
 import re
 
 # Open the username.txt file for reading
-with open("Username.txt", "r") as f:
+with open("txt_vault/Username.txt", "r") as f:
     # Read the entire file contents into a string
     text = f.read()
 
