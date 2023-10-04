@@ -4,22 +4,18 @@ Welcome to the Regex Data Extraction Hackathon! This project involves extracting
 
 ## Team Information
 
-- **Team Name:** Your Team Name
-- **Group Number:** N (Replace with your group number)
+- **Team Name:** Group 13
 - **Team Members:**
-  - Member 1 (GitHub Username)
+  - Abiodun Kumuyi (GitHub Username: akumuyi)
   - Member 2 (GitHub Username)
-  - ...
 
 ## Project Structure
 
 The project repository is organized as follows:
 
-- `src/`: This directory contains the source code for data extraction tasks.
-- `data/`: You can store sample API responses or any data files you need for testing in this directory.
+- `py_modules/`: This directory contains the python packages for data extraction tasks.
+- `txt_vault/`: This directory contains the text data files used in testin the scripts.
 - `README.md`: This README file provides an overview of the project and instructions.
-- `LICENSE`: The license file for your project (you can choose an appropriate open-source license).
-
 ## Challenges
 
 For this hackathon, we have chosen to work on the following challenges:
@@ -68,7 +64,7 @@ For this hackathon, we have chosen to work on the following challenges:
 
 You can use the provided regex patterns and code snippets to extract data types from your API responses or text data. Each challenge corresponds to a specific data type, and the regex patterns are designed to match common patterns for that data type.
 
-To get started with a specific challenge, navigate to the `src/` directory, where you will find Python/JavaScript scripts for each challenge. Follow the instructions in the code comments to adapt the code for your use case.
+To get started with a specific challenge, navigate to the root folder on your terminal and enter the prompt "python3 py_modules/'desired_python_package'" (depending on the data type you are trying to extract for your use case.
 
 ## Contributions
 
@@ -76,4 +72,3 @@ To get started with a specific challenge, navigate to the `src/` directory, wher
 - Commit your code to this GitHub repository using your ALU email address.
 - Ensure that every team member commits code at least once to track individual contributions.
 
-## License
