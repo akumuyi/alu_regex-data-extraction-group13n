@@ -1,7 +1,7 @@
 import re
 
-# Open the username.txt file for reading
-with open("txt_vault/Username.txt", "r") as f:
+# Open the Username.txt file for reading
+with open("/alu_regex-data-extraction-group13/txt_vault/Username.txt", "r") as f:
     # Read the entire file contents into a string
     text = f.read()
 
